@@ -1,0 +1,1 @@
+A small project that downloads all the course content (homework assignments, syllabus, lecture handouts, etc) to my computer from Blackboard Learn using Selenium to login, and Scrapy to crawl through all the content pages.
